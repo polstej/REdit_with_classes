@@ -127,7 +127,7 @@
             this.PerformLayout();
 
         }
-
+        #endregion
         #endregion
 
         private System.Windows.Forms.Label lblReportBody;
