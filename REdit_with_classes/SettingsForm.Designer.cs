@@ -128,7 +128,6 @@
 
         }
 
-        #endregion
 
         private System.Windows.Forms.Label lblReportBody;
         private System.Windows.Forms.TextBox txtBodyKeyword;
